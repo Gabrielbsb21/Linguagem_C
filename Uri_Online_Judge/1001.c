@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include<stdio.h>
 int main() {
-    int A , B, X;
-    scanf("%d%d", &A, &B);
-    X = A + B;
-    printf("X = %d\n", X);
-    return 0;
+	int number_1, number_2, result;
+	scanf("%d%d", &number_1, &number_2);
+	result = number_1 + number_2;
+	printf("X = %d\n", result);
+	return 0;
 }
