@@ -2,7 +2,9 @@
 #include<stdlib.h>
 #define NUMERO_DE_TENTATIVAS 3
 
-/* Jogo em desenvolvimento, em breve vou subir uma versão mais sólida do jogo */
+/* Jogo em desenvolvimento, em breve vou subir uma versão mais sólida do jogo 
+
+*/
 int main(){
     printf("************************************\n");
     printf("* Bem-vindo ao Jogo de Adivinhação *\n");
